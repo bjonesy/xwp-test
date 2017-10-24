@@ -24,5 +24,5 @@ Creates a custom widget, **XWP Stats Widget**, that is used to display the curre
 ### Using FTP
 
 1. Extract `xwp-test.zip` to your computer
-2. Upload the `plugin-name.zip` directory to your `wp-content/plugins` directory
+2. Upload the `xwp-test.zip` directory to your `wp-content/plugins` directory
 3. Activate the plugin on the WordPress Plugins Dashboard
