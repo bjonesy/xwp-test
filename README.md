@@ -10,7 +10,7 @@ A live example of the widget [here](http://jonescreativeconcepts.com/).  Widget 
 
 ## How It Works
 
-Creates a custom widget, **XWP Stats Widget**, that is used to display the current site and its subdomains stats.  It can show the total number of posts, users and comments.  These options are selectable and can be turned on or off.
+Creates a custom widget, **XWP Stats Widget**, that is used to display the current site and its subdomains stats.  It can show the total number of posts, users and comments.  These options are selectable and can be turned on or off.  Site stats refresh every minute via Ajax.
 
 ## Installation
 
