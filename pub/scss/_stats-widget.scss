@@ -1,0 +1,46 @@
+.xwp-widget {
+	.widget-title {
+	    border-bottom: 1px solid #ddd;
+	    padding-bottom: 1.5em;
+		text-align: center;
+	}
+
+	&__posts,
+	&__users,
+	&__comments {
+		text-align: center;
+
+		h4 {
+			font-size: 0.9rem;
+		}
+	}
+
+	&__multisite {
+		margin-top: 2.0rem;
+
+		h3 {
+			font-size: 0.9rem;
+			font-weight: 800;
+			letter-spacing: 0.1818em;
+		}
+	}
+
+	.xwp-widget-subsite {
+		border-bottom: 1px solid #ddd;
+		margin-bottom: 1.0rem;
+    	padding-bottom: 1.0em;
+		text-align: center;
+
+		&__title {
+			font-size: 1rem;
+			font-weight: 300;
+	    	letter-spacing: 0.1818em;
+	    	margin-bottom: 1.5em;
+	    	text-transform: none;
+		}
+
+		h4 {
+			font-size: 0.9rem;
+		}
+	}
+}
