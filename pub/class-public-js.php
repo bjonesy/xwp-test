@@ -45,9 +45,7 @@ class Public_Js {
 					array(
 						'api_nonce'           => wp_create_nonce( 'wp_rest' ),
 						'api_url'             => site_url( '/wp-json/xwp-test/v2/' ),
-						'ajax_url'            => admin_url( 'admin-ajax.php' ),
-						'api_subsite_one_url' => site_url( '/test-one/wp-json/xwp-test/v2/' ),
-						'api_subsite_two_url' => site_url( '/test-two/wp-json/xwp-test/v2/' ),
+						'ajax_url'            => admin_url( 'admin-ajax.php' ),s
 					);
 				} else if ( false === $option['multisite_stats'] ) {
 					$public_array =
